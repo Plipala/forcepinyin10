@@ -1,0 +1,11 @@
+Package: com.plipala.forcepinyin10
+Name: ForcePinyin10
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 让你的iDevice支持九宫格
+Maintainer: plipala <plipala@foxmail.com>
+Conflicts: com.plipala.forcepinyin10 , com.myrepospace.plipala.forcepinyin10
+Replaces: com.plipala.forcepinyin10 , com.myrepospace.plipala.forcepinyin10
+Author: plipala <plipala@foxmail.com>
+Section: Tweaks
